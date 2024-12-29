@@ -1,0 +1,22 @@
+{
+    "programs": [
+        {
+            "prog_id":"1",
+            "prog_name":"Aaj Ki Baat",
+            "prog_desc":"desc",
+            "prog_Background":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/aaj-ki-baat.jpg"
+        },
+        {
+            "prog_id":"2",
+            "prog_name":"Aap Ki Adalat",
+            "prog_desc":"desc",
+            "prog_Background":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/Aap-Ki-Adalat.jpg"
+        },
+        {
+            "prog_id":"3",
+            "prog_name":"Coffee per Kurukshetra",
+            "prog_desc":"desc",
+            "prog_Background":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/cpk.jpg"
+        }
+    ]
+}
