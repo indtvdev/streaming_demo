@@ -1,0 +1,59 @@
+{
+  "version":"0.1",
+  "channels":[
+    {
+      "id":"1",
+      "name":"Sci-fi",
+      "title":"Science Fiction",
+      "type":"1",
+      "desc":"desc",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",
+      "icon":""
+    },
+    {
+      "id":"2",
+      "name":"Action",
+      "title":"Action Thriller",
+      "type":"1",
+      "desc":"desc",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image2.webp",
+      "icon":""
+    },
+    {
+      "id":"3",
+      "name":"Space",
+      "title":"Dive in Space",
+      "type":"1",
+      "desc":"desc",
+      "channelBackground":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image9.webp",
+      "icon":""
+    },
+    {
+      "id":"4",
+      "name":"Horror",
+      "title":"Horror Movies",
+      "type":"1",
+      "desc":"desc",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image7.webp",
+      "icon":""
+    }
+  ],
+  "csai":{
+    "tags":[
+      {
+        "url":"https://pubads.g.doubleclick.net/gampad/live/ads?iu=/8323530/STV_IndiaTVLive_MidRoll_PlayerLevelTag&description_url=https%3A%2F%2Fwww.indiatvnews.com%2F&tfcd=0&npa=0&sz=1x1%7C400x300%7C640x480&min_ad_duration=2000&max_ad_duration=240000&gdfp_req=1&unviewed_position_start=1&output=vast&env=vp&impl=s&correlator=&vad_type=linear"
+      },
+      {
+        "url":"https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/vmap_ad_samples&sz=640x480&cust_params=sample_ar%3Dpremidpostpod&ciu_szs=300x250&gdfp_req=1&ad_rule=1&output=vmap&unviewed_position_start=1&env=vp&impl=s&cmsid=496&vid=short_onecue&correlator="
+      },
+      {
+        "url":"https://pubads.g.doubleclick.net/gampad/ads?iu=/21775744923/external/single_preroll_skippable&sz=640x480&ciu_szs=300x250%2C728x90&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator="
+      }
+    ]
+  },
+  "ssai":{
+    "url":"",
+    "assetid":"",
+    "api_key":""
+  }
+}
