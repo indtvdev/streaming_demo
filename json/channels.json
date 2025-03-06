@@ -7,8 +7,38 @@
       "title":"Science Fiction",
       "type":"1",
       "desc":"desc",
+	  "live_url":"",
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",
       "icon":""
+	  "episodes":{
+		"name":"Episode title",
+	    "episode":[
+		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+  		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+  		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+	    ]
+	  }
     },
     {
       "id":"2",
@@ -16,6 +46,7 @@
       "title":"Action Thriller",
       "type":"1",
       "desc":"desc",
+	  "live_url":"",
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image2.webp",
       "icon":""
     },
@@ -25,7 +56,8 @@
       "title":"Dive in Space",
       "type":"1",
       "desc":"desc",
-      "channelBackground":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image9.webp",
+	  "live_url":"",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image9.webp",
       "icon":""
     },
     {
@@ -34,6 +66,7 @@
       "title":"Horror Movies",
       "type":"1",
       "desc":"desc",
+	  "live_url":"",
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image7.webp",
       "icon":""
     }
