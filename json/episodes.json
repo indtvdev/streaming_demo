@@ -29,7 +29,7 @@
           "date":"Feb-12, 25",
           "views":"52790",
           "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-          "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.webp",
+          "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
           "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb.jpg"
         },
         {
@@ -56,15 +56,6 @@
       "name":"Trending",
       "episode":[
         {
-          "id":"5",
-          "title":"Altron",
-          "date":"Feb-12, 25",
-          "views":"52790",
-          "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-          "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron-wallpaper.webp",
-          "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron.webp"
-        },
-        {
           "id":"1",
           "title":"Sintel",
           "date":"Feb-12, 25",
@@ -72,6 +63,15 @@
           "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
           "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel-wallpaper.jpg",
           "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel.jpg"
+        },
+		{
+          "id":"5",
+          "title":"Altron",
+          "date":"Feb-12, 25",
+          "views":"52790",
+          "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+          "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron-wallpaper.webp",
+          "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron.webp"
         },
         {
           "id":"2",
@@ -83,15 +83,6 @@
           "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos.jpg"
         },
         {
-          "id":"3",
-          "title":"Big Buck Bunny",
-          "date":"Feb-12, 25",
-          "views":"52790",
-          "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
-          "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.webp",
-          "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb.jpg"
-        },
-        {
           "id":"4",
           "title":"Alien World",
           "date":"Feb-12, 25",
@@ -99,6 +90,15 @@
           "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
           "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien-wallpaper.webp",
           "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien.webp"
+        },
+        {
+          "id":"3",
+          "title":"Big Buck Bunny",
+          "date":"Feb-12, 25",
+          "views":"52790",
+          "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+          "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
+          "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb.jpg"
         }
       ]
     }
