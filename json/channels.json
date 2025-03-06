@@ -9,9 +9,9 @@
       "desc":"desc",
 	  "live_url":"",
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",
-      "icon":""
+      "icon":"",
 	  "episodes":{
-		"name":"Episode title",
+		"name":"Episode Name",
 	    "episode":[
 		  {
 		    "id":"1",
@@ -48,7 +48,36 @@
       "desc":"desc",
 	  "live_url":"",
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image2.webp",
-      "icon":""
+      "icon":"",
+	  "episodes":{
+		"name":"Episode Name",
+	    "episode":[
+		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+  		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+  		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+	    ]
+	  }
     },
     {
       "id":"3",
@@ -58,7 +87,36 @@
       "desc":"desc",
 	  "live_url":"",
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image9.webp",
-      "icon":""
+      "icon":"",
+	  "episodes":{
+		"name":"Episode Name",
+	    "episode":[
+		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+  		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+  		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+	    ]
+	  }
     },
     {
       "id":"4",
@@ -68,7 +126,36 @@
       "desc":"desc",
 	  "live_url":"",
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image7.webp",
-      "icon":""
+      "icon":"",
+	  "episodes":{
+		"name":"Episode Name",
+	    "episode":[
+		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+  		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+  		  {
+		    "id":"1",
+		    "title":"Science Fiction",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+          },
+	    ]
+	  }
     }
   ],
   "csai":{
