@@ -11,31 +11,52 @@
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",
       "icon":"",
 	  "episodes":{
-		"name":"Episode Name",
+		"name":"Most Viewed",
 	    "episode":[
 		  {
 		    "id":"1",
-		    "title":"Science Fiction",
+		    "title":"Sintel",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel-wallpaper.jpg",
+			"card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel.jpg"
           },
   		  {
-		    "id":"1",
-		    "title":"Science Fiction",
+		    "id":"2",
+		    "title":"Tears of Steel",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos-wallpaper.jpg",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos.jpg"
           },
   		  {
-		    "id":"1",
-		    "title":"Science Fiction",
+		    "id":"3",
+		    "title":"Big Buck Bunny",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb.jpg"
+          },
+  		  {
+		    "id":"4",
+		    "title":"Alien World",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien.webp"
+          },
+  		  {
+		    "id":"5",
+		    "title":"Altron",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron.webp"
           },
 	    ]
 	  }
@@ -50,31 +71,52 @@
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image2.webp",
       "icon":"",
 	  "episodes":{
-		"name":"Episode Name",
+		"name":"Trending",
 	    "episode":[
+  		  {
+		    "id":"5",
+		    "title":"Altron",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron.webp"
+          },
 		  {
 		    "id":"1",
-		    "title":"Science Fiction",
+		    "title":"Sintel",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel-wallpaper.jpg",
+			"card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel.jpg"
           },
   		  {
-		    "id":"1",
-		    "title":"Science Fiction",
+		    "id":"2",
+		    "title":"Tears of Steel",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos-wallpaper.jpg",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos.jpg"
           },
   		  {
-		    "id":"1",
-		    "title":"Science Fiction",
+		    "id":"3",
+		    "title":"Big Buck Bunny",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb.jpg"
+          },
+  		  {
+		    "id":"4",
+		    "title":"Alien World",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien.webp"
           },
 	    ]
 	  }
@@ -89,31 +131,52 @@
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image9.webp",
       "icon":"",
 	  "episodes":{
-		"name":"Episode Name",
+		"name":"Popular Now",
 	    "episode":[
+  		  {
+		    "id":"2",
+		    "title":"Tears of Steel",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos-wallpaper.jpg",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos.jpg"
+          },
+  		  {
+		    "id":"5",
+		    "title":"Altron",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron.webp"
+          },
 		  {
 		    "id":"1",
-		    "title":"Science Fiction",
+		    "title":"Sintel",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel-wallpaper.jpg",
+			"card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel.jpg"
           },
   		  {
-		    "id":"1",
-		    "title":"Science Fiction",
+		    "id":"3",
+		    "title":"Big Buck Bunny",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb.jpg"
           },
   		  {
-		    "id":"1",
-		    "title":"Science Fiction",
+		    "id":"4",
+		    "title":"Alien World",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien.webp"
           },
 	    ]
 	  }
@@ -128,31 +191,52 @@
       "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image7.webp",
       "icon":"",
 	  "episodes":{
-		"name":"Episode Name",
+		"name":"Also Watched",
 	    "episode":[
+  		  {
+		    "id":"3",
+		    "title":"Big Buck Bunny",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb.jpg"
+          },
+  		  {
+		    "id":"4",
+		    "title":"Alien World",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien.webp"
+          },
+  		  {
+		    "id":"2",
+		    "title":"Tears of Steel",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos-wallpaper.jpg",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos.jpg"
+          },
+  		  {
+		    "id":"5",
+		    "title":"Altron",
+			"date":"Feb-12, 25"
+		    "views":"52790",
+		    "url":"",
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron-wallpaper.webp",
+            "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron.webp"
+          },
 		  {
 		    "id":"1",
-		    "title":"Science Fiction",
+		    "title":"Sintel",
 			"date":"Feb-12, 25"
 		    "views":"52790",
 		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
-          },
-  		  {
-		    "id":"1",
-		    "title":"Science Fiction",
-			"date":"Feb-12, 25"
-		    "views":"52790",
-		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
-          },
-  		  {
-		    "id":"1",
-		    "title":"Science Fiction",
-			"date":"Feb-12, 25"
-		    "views":"52790",
-		    "url":"",
-		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image1.webp",		  
+		    "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel-wallpaper.jpg",
+			"card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel.jpg"
           },
 	    ]
 	  }
