@@ -3,8 +3,8 @@
   "channels":[
     {
       "id":"1",
-      "name":"Sci-Fi",
-      "title":"Science Fiction stories",
+      "name":"Movies",
+      "title":"Watch movies and more",
       "type":"1",
       "desc":"desc",
 	  "live_url":"",
@@ -13,32 +13,32 @@
     },
     {
       "id":"2",
-      "name":"Action",
-      "title":"Action Thriller Drama and series to watch more",
+      "name":"Science Fiction",
+      "title":"Science Fiction stories",
       "type":"1",
       "desc":"desc",
 	  "live_url":"",
-      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos-wallpaper.jpg",
       "icon":""
 	},
     {
       "id":"3",
-      "name":"Space",
+      "name":"Space Exploration",
       "title":"Dive in Space",
       "type":"1",
       "desc":"desc",
 	  "live_url":"",
-      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/deep-space2-wallpaper.webp",
       "icon":""
     },
     {
       "id":"4",
-      "name":"Horror",
-      "title":"Horror Movies",
+      "name":"Documentary",
+      "title":"Documentary Stories",
       "type":"1",
       "desc":"desc",
 	  "live_url":"",
-      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/documentary-wallpaper.jpg",
       "icon":""
     }
   ],
