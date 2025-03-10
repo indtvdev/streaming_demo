@@ -3,22 +3,22 @@
   "channels":[
     {
       "id":"1",
-      "name":"Sci-fi",
-      "title":"Science Fiction",
+      "name":"Sci-Fi",
+      "title":"Science Fiction stories",
       "type":"1",
       "desc":"desc",
 	  "live_url":"",
-      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien.webp",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
       "icon":""
     },
     {
       "id":"2",
       "name":"Action",
-      "title":"Action Thriller",
+      "title":"Action Thriller Drama and series to watch more",
       "type":"1",
       "desc":"desc",
 	  "live_url":"",
-      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image2.webp",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
       "icon":""
 	},
     {
@@ -28,7 +28,7 @@
       "type":"1",
       "desc":"desc",
 	  "live_url":"",
-      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image9.webp",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
       "icon":""
     },
     {
@@ -38,7 +38,7 @@
       "type":"1",
       "desc":"desc",
 	  "live_url":"",
-      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/image7.webp",
+      "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
       "icon":""
     }
   ],
