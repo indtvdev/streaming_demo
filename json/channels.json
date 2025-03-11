@@ -44,6 +44,9 @@
   ],
   "csai":{
     "tags":[
+	  {
+        "url":"https://getapi.indiatvnews.com/app/ctvmain_live_vidgyor.xml"
+      },
     ]
   },
   "ssai":{
