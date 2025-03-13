@@ -3,6 +3,86 @@
   "channels":[
     {
       "channel":{
+        "channelid":"0",
+        "episodes":[
+          {
+            "name":"News",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Live",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-xiaomi/playlist.m3u8?app_bundle=REPLACEME&app_name=REPLACEME&did=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&consent=REPLACEME&is_lat=REPLACEME&app_store_url=REPLACEME&coppa=REPLACEME",
+                "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/news-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/live.png"
+              },
+              {
+                "id":"2",
+                "title":"Aaj ki Baat",
+                "date":"Feb-12, 24",
+                "views":"52790",
+                "url":"https://vod-indiatv.akamaized.net/63bd2161756d5f000872bc0b/2024/12/6vlgyt7r/6vlgyt7r_1280x720.m3u8",
+                "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/akp-wallpaper.jpg"
+              },
+            ]
+          },
+          {
+            "name":"Trending",
+            "episode":[
+              {
+                "id":"1",
+                "title":"Sintel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/sintel.jpg"
+              },
+              {
+                "id":"5",
+                "title":"Altron",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/altron.webp"
+              },
+              {
+                "id":"2",
+                "title":"Tears of Steel",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/tos.jpg"
+              },
+              {
+                "id":"4",
+                "title":"Alien World",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien-wallpaper.webp",
+                "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/alien.webp"
+              },
+              {
+                "id":"3",
+                "title":"Big Buck Bunny",
+                "date":"Feb-12, 25",
+                "views":"52790",
+                "url":"https://scte-player.s3.ap-south-1.amazonaws.com/hls/sintel/index.m3u8",
+                "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb-wallpaper.jpg",
+                "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/bbb.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    },
+	{
+      "channel":{
         "channelid":"1",
         "episodes":[
           {
