@@ -13,7 +13,7 @@
                 "title":"Live",
                 "date":"Feb-12, 25",
                 "views":"52790",
-                "url":"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatvlive-xiaomi/playlist.m3u8?app_bundle=REPLACEME&app_name=REPLACEME&did=REPLACEME&us_privacy=REPLACEME&gdpr=REPLACEME&consent=REPLACEME&is_lat=REPLACEME&app_store_url=REPLACEME&coppa=REPLACEME",
+                "url":"https://vod-indiatv.akamaized.net/63bd2161756d5f000872bc0b/2024/12/6vlgyt7r/6vlgyt7r_1280x720.m3u8",
                 "bg":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/news-wallpaper.jpg",
                 "card":"https://raw.githubusercontent.com/indtvdev/streaming_demo/refs/heads/main/carousel/images/live.png"
               },
